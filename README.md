@@ -1,6 +1,5 @@
 # How to use HealthAtHome
 
-
 * Fork & Clone the repo
 ```
   git clone https://github.com/[yourname]/Doc-Home..git
